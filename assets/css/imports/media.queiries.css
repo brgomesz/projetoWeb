@@ -1,0 +1,9 @@
+@media (max-width: 800px) {
+    .row {
+        display: block;
+    }
+
+    .col {
+        width: 100%;
+    }
+}
